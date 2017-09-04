@@ -1,2 +1,2 @@
 # demo_hello
-TEST FOR HELLO
+SSH TEST FOR HELLO
